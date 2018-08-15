@@ -1,0 +1,1 @@
+ I was disappointed after reading 3 chapters of this book. Leafing forward, the book is saturated with SAS examples that I not only cannot understand but do not care about. It seems the whole book was written just to promote the (sold separately)...CD ROM with source SAS code. If you are going to write a SAS book, label it as such.     

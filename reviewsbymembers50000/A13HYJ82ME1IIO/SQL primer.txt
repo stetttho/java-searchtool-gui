@@ -1,0 +1,1 @@
+ I learned SQL using this book and referred to it often when I was starting out. Lots of clear examples. Highly recommended for those who have to learn SQL.     

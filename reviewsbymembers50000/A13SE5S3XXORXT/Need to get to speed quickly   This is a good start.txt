@@ -1,0 +1,1 @@
+ While the various websites give a lot of good information on regular expressions, they don't show enough about building them from scratch.  This book does a great job of laying a good foundation and then helping the reader understand how to build expressions from there.     

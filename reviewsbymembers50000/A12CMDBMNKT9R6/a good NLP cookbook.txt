@@ -1,0 +1,1 @@
+ A very good introduction to the major techniques of NLP--almost like a cookbook of NLP. Very easy to follow. But it's just the beginning; don't expect to get the full meaning from just this book, but it's a great start  for any beginner. I suggest it as the first book to read on NLP along with  "The Structure of Magic".     

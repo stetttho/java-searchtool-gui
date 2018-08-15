@@ -1,0 +1,1 @@
+ I've never regretted when I bought a book written by B.Kernighan. This is not an exception. The book doesn't teach you any particular languages or algorithms. It just shows how to write good programs.     

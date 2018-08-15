@@ -1,0 +1,1 @@
+ The book is an interesting read, but it won't help you pass the 70-100 exam.  For that, I'd recommend Database Design for Mere Mortals, plus Transcender.     

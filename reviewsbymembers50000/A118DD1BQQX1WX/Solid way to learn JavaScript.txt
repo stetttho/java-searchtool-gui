@@ -1,0 +1,1 @@
+ I purchased this book with the intent on learning JavaScript.  This book  does a more than adequate job of doing that.  It gives pretty good examples  and most of them actually work.  I would suggest this book if you want an  understanding of JavaScript, and some decent examples to use in real life  situations.     

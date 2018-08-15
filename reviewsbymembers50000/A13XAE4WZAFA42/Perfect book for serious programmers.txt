@@ -1,0 +1,1 @@
+ Read it if you want to become a C++ and OOP expert. Don't read it if you want just to learn C++, it's not for beginners.     

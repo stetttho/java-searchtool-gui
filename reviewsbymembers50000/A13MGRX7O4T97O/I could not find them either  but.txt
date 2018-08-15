@@ -1,0 +1,1 @@
+ perhaps the names were misspelled. The poster probably meant Flowers (An Introduction to Numerical Methods in C++ ), and Ueberhuber (Numerical Computation)... both, indeed, are good books.     

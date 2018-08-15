@@ -1,0 +1,1 @@
+ Carl is a working DBA. He has a deep grasp of the cluster environment and what it takes to keep SQL Server working. He is very interested in presenting the material in the clearest form. If you do not have this book buy it. The information is worth it.     

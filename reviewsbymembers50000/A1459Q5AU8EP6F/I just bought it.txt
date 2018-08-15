@@ -1,0 +1,1 @@
+ I haven't received the book yet, but I have a question: Which compiler might I consider using to work out examples and experiment with my new knowledge?  I am running Windows NT 4 SP4.  Will VC work?  Wacom?  Any  advice appreciated!     

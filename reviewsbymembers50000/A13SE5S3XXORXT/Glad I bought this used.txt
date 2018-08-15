@@ -1,0 +1,1 @@
+ If you find this book for less than $12 USD somewhere, it's probably worth the money just to look at some more code samples.  However, the examples in this book are buggy, and are hard to isolate and recycle into your own projects.  If you have the Neil Rhodes book from O'Reilly and/or the PalmOS Programming Bible from Wiley, then don't bother with this title at all.     

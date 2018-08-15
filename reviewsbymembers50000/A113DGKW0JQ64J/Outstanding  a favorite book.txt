@@ -1,0 +1,1 @@
+ This book, along with "Understanding Digital Signal Processing" and Steiglitz' "DSP Primer" are the best, most useful, yet gentle introductions to DSP I have ever read. If only I had this book before I  entered grad school! The CD-ROM that comes with it is very well done; a  brilliant presentation! Highly recommended.     

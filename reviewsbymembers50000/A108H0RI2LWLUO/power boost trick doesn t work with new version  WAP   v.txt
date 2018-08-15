@@ -1,0 +1,1 @@
+ An earlier review below talks about boosting the output power by playing with an undocumented setting. This only works for the old model. The new one, WAP11 v2.2, is completely different; there is no known way to make it output more power. --Pat / zippy at cs.brandeis.edu     

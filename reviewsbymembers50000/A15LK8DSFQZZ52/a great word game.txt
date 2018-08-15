@@ -1,0 +1,1 @@
+ Wordtris is similiar to Tetris in that you have to build words or you lose your turns, The letters, similiar to Scrabble letters, fall down and you have to rush around to line them up.  This game is great fun and I recommend it highly to all word lovers.     

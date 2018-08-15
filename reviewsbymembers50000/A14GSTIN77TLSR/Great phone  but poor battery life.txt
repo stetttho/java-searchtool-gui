@@ -1,0 +1,1 @@
+ We've had the KXTC-1866 for about a year and have found it's great except for two issues.  First, the battery runs down quite rapidly.  We usually get about a half-hour of talk time.  Second, the volume of the message payback is very poor on remote pickup, even if we set the volume to max.  I am putting in a new battery in hopes that it was defective.     

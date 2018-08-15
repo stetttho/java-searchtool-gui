@@ -1,0 +1,1 @@
+ I have several books on UNIX/Linux, but this is the one that helped me get up to speed! With the other books I got stuck several times, but this book is very easy to understand, and gives you all the necessary information to  get started. If you are totally new to UNIX/Linux this book is a good place  to start!     

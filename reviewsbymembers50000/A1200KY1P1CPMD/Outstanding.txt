@@ -1,0 +1,1 @@
+ I can't say enough good things about this book. I particularly appreciate the way in which it makes the mod_perl Apache module clearly and easily  accessible despite its complexity.     

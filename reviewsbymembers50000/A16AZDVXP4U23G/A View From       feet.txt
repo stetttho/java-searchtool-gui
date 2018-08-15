@@ -1,0 +1,1 @@
+ This book provides a very high level view of the topics covered. I'd rate it as OK for someone wanting to get an overview of workflows, groupware, or intranets. However, if you are looking for an in-depth analysis of these types of systems, it misses the mark. It's an easy read if you are just looking for a high level introductory text, though.     

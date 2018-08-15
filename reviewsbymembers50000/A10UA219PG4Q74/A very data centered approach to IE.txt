@@ -1,0 +1,1 @@
+ Bill Inmon's 1988 work has 5 sections: Intro to Info Engineering, Data Modeling, Detailed Data Design, Process Modeling, and  Other Architectural Considerations. This title is heavy on the data modelling section as you would expect from an Inmon work. To  uches only lightly on other facets of Information Engineering.     

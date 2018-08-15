@@ -1,0 +1,1 @@
+ I was forced to buy this thing because Tivo is too cheap to make a box that can use 80211G.  Adding a 80211B to your network forces the wireless hub to work at B speed.  For you techno-whizzes, you can set up separate networks, but for plug and play people, this thing is a square peg in a round hole.     

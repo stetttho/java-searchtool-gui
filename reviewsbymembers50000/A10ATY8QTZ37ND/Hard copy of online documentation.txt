@@ -1,0 +1,1 @@
+ Though this book helped me breeze through a project and enabled me to write stored procedures even with minimal SQL experience, I noticed that the information in  this book can be found online. If you can manage to look at the monitor for hours at a time then don't buy this book, you can readily get the information online.     

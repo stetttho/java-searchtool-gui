@@ -1,0 +1,1 @@
+ This is one of the few books that explore T-SQL. As a DBA I am always looking for a better, easier way to write code. This book is full of code examples and new ways to look at the material.  I hope that Ken continues writing his series. The next version of SQL Server will allow other languages in the queries. That should be a major change for us.     

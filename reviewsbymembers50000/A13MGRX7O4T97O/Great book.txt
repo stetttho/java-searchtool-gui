@@ -1,0 +1,1 @@
+ Anyone working with LAPACK needs to have this book handy. (Oh, I see... In my first attempt, I posted a review with an online link to this book, but it got edited out :-) OK, so let's try w/o links: this book is available online on netlib -- google for it.) Of course you want a printed copy of this very useful reference book.   Recommended.     

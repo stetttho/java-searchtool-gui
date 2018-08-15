@@ -1,0 +1,1 @@
+ I too have been plagued by the HELLO display lock up issue.  I called Samsung and they recommened: Unplug the unit from AC Remove the Antenna connection from the back of the unit. Plug back into AC power on then plug the antenna back in      

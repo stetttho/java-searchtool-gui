@@ -1,0 +1,1 @@
+ This unit clearly displays both the indoor and outdoor temp and humidity at the same time.  The remote sensor is well made.  Time is updated via atomic clock.  Both are powered by AA batteries.      

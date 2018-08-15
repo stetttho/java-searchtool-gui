@@ -1,0 +1,1 @@
+ A coworker loaned me this book, which I attempted to use to setup some of the more advanced features of Resin.  I read the one relevant chapter, which was lightweight and riddled with errors in both the code/config listings and the narrative.  This book is worthless.  I found what I needed on Caucho's web site.     

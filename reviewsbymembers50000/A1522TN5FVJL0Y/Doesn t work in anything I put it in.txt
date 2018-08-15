@@ -1,0 +1,1 @@
+ I have nothing good to say about Kingston memory.  I tried installing this module in an E-machines T1220 1.2 GHz Celeron system that is only 3 months old and no go.  Wouldn't work in two other systems I tried.  The same spec memory from Centon and PNY both worked without any problems.  Mine is going back.     

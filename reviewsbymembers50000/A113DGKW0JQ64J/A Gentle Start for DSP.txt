@@ -1,0 +1,1 @@
+ This wonderful book was the first one I ever came across that made sense to me, coming from an software 'n audio background rather than being a full-on EE head. In fact, the book is well worth the price for chapters 6 and 7 alone describing in amazingly clear and simple language the principles behind the Fourier transform.     

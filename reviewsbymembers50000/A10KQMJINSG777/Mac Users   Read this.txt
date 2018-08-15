@@ -1,0 +1,1 @@
+ This review is directed to those who are newcomers to dynamic websites/and or mac users.  Get Joe Kissel's book, 50 techniques for the Mac.  It shows you how to turn on PHP.  Skip the unix stuff written for the mac.  Unless you already know unix, it is a huge project to do so.     

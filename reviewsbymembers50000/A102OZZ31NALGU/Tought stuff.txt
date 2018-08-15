@@ -1,0 +1,1 @@
+ This material assumes a lot of previous knowledge in the field. It is really difficult to grasp reading cover to cover. However, once you get the hang of it, McCarthy does a great job of demonstrating the theory at work.     

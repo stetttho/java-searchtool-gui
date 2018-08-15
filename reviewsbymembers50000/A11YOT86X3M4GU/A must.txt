@@ -1,0 +1,1 @@
+ In my opinion, the best work ever written in the category not-for-beginner-but-available-to-non-specialist (such as Beauty of Fractals, by the same authors). An easy answer to question "How can I  generate a fractal image with my PC?", from brownian motion to Julia  sets. A must for reader interested in fractals (a bit out-of-fashion but  still very interesting field).     

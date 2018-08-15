@@ -1,0 +1,1 @@
+ A good first read on ASP, this book explains the basic object model and structure very well. Sadly, the index is noticably thin, which diminishes the work's very as reference material. On several occasions I simple  couldn't find information that I knew I'd read before. This reviewer  hasn't read many other books on ASP, but is convinced there's something  better out there.     

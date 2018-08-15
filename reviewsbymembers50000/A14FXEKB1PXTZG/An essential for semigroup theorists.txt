@@ -1,0 +1,1 @@
+ Often referred to as the "bible of semigroup theory", this text is essential reading for anyone interested in semigroup theory. It provides a thorough exposition of the fundamentals of algebraic semigroup theory including Green's relations, the Rees Theorem, and Schutzenberger groups. It is clear, concise and well-orgainzed, making for an easy and even pleasant reading.     
